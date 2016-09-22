@@ -1,4 +1,4 @@
-#TD Hiérarchie et Tableau CRUD
+#TD Hiérarchie et Tableau HTTP(CRUD)
 
 On va faire un petit exercice, on va designer une structure d'API REST.
 
