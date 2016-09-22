@@ -11,7 +11,7 @@ On va avoir pour cela prendre la hiérachie suivante (exemple du blog):
 - Chaque article à une ou plusieures images  
 - Chaque image peut être commentée   
   
-![Hiérarchie](/image/hierar.png)
+![Hiérarchie](/Image/hierar.png)
 
 ## Les différents tableaux :
 
