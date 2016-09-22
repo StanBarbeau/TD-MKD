@@ -9,7 +9,9 @@ On va avoir pour cela prendre la hiérachie suivante (exemple du blog):
 - Chaque article à un auteur  
 - Chaque article peut être commenté  
 - Chaque article à une ou plusieures images  
-- Chaque image peut être commentée  
+- Chaque image peut être commentée   
+  
+![Hiérarchie](/Image/hierar.png)
 
 ## Les différents tableaux :
 
