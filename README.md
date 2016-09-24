@@ -24,11 +24,11 @@ Voici le tableau décrivant les auteurs. On note *ida* l'id de l'auteur
 
 | Operation | Verb   | URI            | Description |
 | --------- | ------ | -------------- | ----------- |
-| Read(all) | GET    | /auteurs       | On récupère tout les auteurs
-| Create    | POST   | /auteurs       | On créer un nouvel auteur
-| Read      | GET    | /auteurs/*ida* | On récupère l'auteur d'identifiant *ida* 
-| Update    | PUT    | /auteurs/*ida* | On met à jour l'auteur d'identifiant *ida*
-| Destroy   | DELETE | /auteurs/*ida* | On supprime l'auteur d'identifiant *ida*
+| Read(all) | GET    | /auteurs       | On récupère tout les auteurs.
+| Create    | POST   | /auteurs       | On créer un nouvel auteur.
+| Read      | GET    | /auteurs/*ida* | On récupère l'auteur d'identifiant *ida*.
+| Update    | PUT    | /auteurs/*ida* | On met à jour l'auteur d'identifiant *ida*.
+| Destroy   | DELETE | /auteurs/*ida* | On supprime l'auteur d'identifiant *ida*.
 
 ### L'objet article
 
